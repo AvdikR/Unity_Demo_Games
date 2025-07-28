@@ -6,7 +6,7 @@ A personal portfolio of demo games and experimental prototypes developed while l
 ### 1. 🏃 **Endless Pilgrimage**
 *3D ранер для мобільних платформ ( Android/iOs), який має особисту збірку об'єктів створених на Blender та дозволяє користувачу перевіряти себе на швидкість реакції та удачу.*
 
-- 📁 [Код проєкту](./EndlessPilgrimage)
+- 📁 [Код проєкту](https://github.com/AvdikR/UnityProjects_Games/tree/main/Endless%20Piligrimage)
 - ⚙️ Unity, C#, Photoshop, Git
 
 
