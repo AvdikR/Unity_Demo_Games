@@ -9,7 +9,7 @@ A personal portfolio of demo games and experimental prototypes developed while l
 - 📁 [Код проєкту](https://github.com/AvdikR/UnityProjects_Games/tree/main/Endless%20Piligrimage)
 - ⚙️ Unity, C#, Photoshop, Git, Blender
 
-### 2. ⚙️ **Bug Breaker**
+### 2. 👾 **Bug Breaker**
 *3D платформер-аркада з елементами вивчення основ програмування та дослідження ігрових рівнів.*
 
 - 📁 [Код проєкту](https://github.com/AvdikR/UnityProjects_Games/tree/main/BugBreaker)
