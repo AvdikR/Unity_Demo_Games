@@ -13,7 +13,7 @@ A personal portfolio of demo games and experimental prototypes developed while l
 *3D платформер-аркада з елементами вивчення основ програмування та дослідження ігрових рівнів.*
 
 - 📁 [Код проєкту](https://github.com/AvdikR/UnityProjects_Games/tree/main/Bug%20Breaker)
-- ⚙️ Unity, C#, Photoshop, Git
+- ⚙️ Unity, C#, Photoshop, Git, Blender, Firebase
 
 
 ## 📦 Інструменти та технології
